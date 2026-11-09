@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  pom.xml: el fichero que describe el proyecto para Maven.
+  NetBeans lo reconoce solo: File > Open Project y eliges esta carpeta.
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Identidad del proyecto: grupo (como un dominio al revés), nombre y versión -->
+    <groupId>es.isidraguzman.di</groupId>
+    <artifactId>calculadora-simple</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <properties>
+        <!-- Ficheros en UTF-8 para que las tildes de los textos no se rompan -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- Compila para Java 17 (la versión que usa Javanotes 9 y funciona en los PC de clase) -->
+        <maven.compiler.release>17</maven.compiler.release>
+        <!-- Clase con el main(): la usa NetBeans al pulsar Run (F6) -->
+        <exec.mainClass>es.isidraguzman.di.calculadora.Calculadora</exec.mainClass>
+    </properties>
+</project>
