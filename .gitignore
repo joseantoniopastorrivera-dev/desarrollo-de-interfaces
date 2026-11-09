@@ -1,12 +1,18 @@
-# Dependencias y builds de proyectos web
-node_modules/
-dist/
+# Java Swing con NetBeans (Ant y Maven)
 build/
-.parcel-cache/
+dist/
+target/
+*.class
+nbproject/private/
+.nb-gradle/
+
+# Proyectos web del curso de la UC3M
+node_modules/
 
 # Editores
 .vscode/
 .idea/
+*.iml
 
 # Sistema y secretos
 .DS_Store
