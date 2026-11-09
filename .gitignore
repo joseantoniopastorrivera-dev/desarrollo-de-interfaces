@@ -1,0 +1,25 @@
+# Java / Maven / IntelliJ
+target/
+*.class
+out/
+.idea/
+*.iml
+
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+
+# Sistema y secretos
+.DS_Store
+Thumbs.db
+.env
