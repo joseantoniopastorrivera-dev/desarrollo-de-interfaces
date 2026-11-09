@@ -1,23 +1,12 @@
-# Java / Maven / IntelliJ
-target/
-*.class
-out/
-.idea/
-*.iml
-
-# .NET / Visual Studio
-bin/
-obj/
-.vs/
-*.user
-
-# Python
-__pycache__/
-*.pyc
-.venv/
-
-# Node
+# Dependencias y builds de proyectos web
 node_modules/
+dist/
+build/
+.parcel-cache/
+
+# Editores
+.vscode/
+.idea/
 
 # Sistema y secretos
 .DS_Store
