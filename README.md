@@ -17,7 +17,7 @@ Hay dos fuentes de material:
 Enlaces del aula virtual:
 
 - Unidad 1 y 4: vídeo [*Tu cerebro te miente 400 veces al día*](https://www.youtube.com/watch?v=GUWC3Nr_AZ8).
-- Unidad 2: [*Introduction to Programming Using Java, Version 9.0, Swing Edition*](https://math.hws.edu/javanotes-swing/) (Javanotes, David J. Eck). Copia en PDF de la versión 9.0 (2022) en [`recursos/javanotes-9-swing-edition.pdf`](recursos/javanotes-9-swing-edition.pdf), con licencia CC BY-NC-SA 4.0. Si sale una versión nueva, se descarga desde ese enlace.
+- Unidad 2: [*Introduction to Programming Using Java, Version 9.0, Swing Edition*](https://math.hws.edu/javanotes-swing/) (Javanotes, David J. Eck). Copia en PDF de la versión 9.0 (2022) en [`recursos/libros/swing/javanotes-9-swing-edition.pdf`](recursos/libros/swing/javanotes-9-swing-edition.pdf), con licencia CC BY-NC-SA 4.0. Si sale una versión nueva, se descarga desde ese enlace.
 - Unidad 2: [Libros sobre Java Swing](https://freecomputerbooks.com/javaGuiBooks.html) en freecomputerbooks. Muchas de sus descargas son copias no autorizadas de libros comerciales; los gratuitos de verdad son estos:
   - [Creating a GUI With Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html), tutorial oficial de Oracle.
   - [Java Programming Tutorial: GUI Programming](https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html), Chua Hock Chuan (NTU Singapur).
@@ -38,4 +38,11 @@ Enlaces del aula virtual:
 
 ## Recursos
 
-- [`recursos/javanotes-9-swing-edition.pdf`](recursos/javanotes-9-swing-edition.pdf): libro completo de Java 17 con Swing, gratuito (CC BY-NC-SA 4.0).
+Libros gratuitos y con licencia que permite redistribuirlos, descargados de la web de su autor o proyecto. Para buscar una versión nueva, usa el enlace de la fuente.
+
+| Archivo | Libro | Licencia | Fuente |
+|---|---|---|---|
+| [`recursos/libros/swing/javanotes-9-swing-edition.pdf`](recursos/libros/swing/javanotes-9-swing-edition.pdf) | *Introduction to Programming Using Java*, v9.0 Swing Edition (2022), David J. Eck. Java 17 con Swing | CC BY-NC-SA 4.0 | <https://math.hws.edu/javanotes-swing/> |
+| [`recursos/libros/javafx/learning-javafx-rip-tutorial.pdf`](recursos/libros/javafx/learning-javafx-rip-tutorial.pdf) | *Learning JavaFX*, contribuyentes de Stack Overflow | CC BY-SA | <https://riptutorial.com/ebook/javafx> |
+| [`recursos/libros/javafx/javafx-documentation-project.pdf`](recursos/libros/javafx/javafx-documentation-project.pdf) | *JavaFX Documentation Project* | CC BY-NC-ND 4.0 | <https://fxdocs.github.io/docs/html5/> |
+| [`recursos/libros/graficos/introduction-to-computer-graphics-1-4.pdf`](recursos/libros/graficos/introduction-to-computer-graphics-1-4.pdf) | *Introduction to Computer Graphics*, v1.4 (2023), David J. Eck | CC BY-NC-SA 4.0 | <https://math.hws.edu/graphicsbook/> |
