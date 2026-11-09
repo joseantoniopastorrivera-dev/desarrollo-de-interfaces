@@ -14,6 +14,9 @@ node_modules/
 .idea/
 *.iml
 
+# Guías de defensa: material personal, nunca se suben a GitHub
+guia-defensa-*.md
+
 # Sistema y secretos
 .DS_Store
 Thumbs.db

@@ -12,7 +12,7 @@ Hay dos fuentes de material:
 | Carpeta | Qué hay |
 |---|---|
 | [`unidad-1-y-4-interfaces-de-usuario-y-usabilidad/`](unidad-1-y-4-interfaces-de-usuario-y-usabilidad/) | Psicología de los colores. Teoría: temas 1 a 5 del curso de la UC3M |
-| [`unidad-2-editores-visuales-netbeans/`](unidad-2-editores-visuales-netbeans/) | Aplicaciones en Java con interfaz gráfica de usuario con NetBeans |
+| [`unidad-2-editores-visuales-netbeans/`](unidad-2-editores-visuales-netbeans/) | Aplicaciones en Java con interfaz gráfica de usuario con NetBeans. [`calculadora-simple/`](unidad-2-editores-visuales-netbeans/calculadora-simple/): ejemplo de referencia en Swing, comentado línea a línea (proyecto Maven para NetBeans) |
 
 Enlaces del aula virtual:
 
