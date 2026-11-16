@@ -35,6 +35,7 @@ Enlaces del aula virtual:
 | [`practicas/`](practicas/) | `tecnologias-web.pdf` (HTML5, CSS3, JavaScript y jQuery, base de todas las prácticas) y una carpeta por práctica: 1 HTML5 y CSS3, 2 JavaScript y jQuery, 3 metodología de diseño y prototipado |
 | [`caso-practico/`](caso-practico/) | Enunciado del caso práctico (tema 4) |
 | [`recursos/`](recursos/) | Libros de consulta para todo el curso en `libros/`: Swing (Javanotes 9), JavaFX y gráficos por computador |
+| [`examen/`](examen/) | Preparación de mi examen: guía de estudio (`guia-estudio-examen-di.md` y `.pdf`) y dos proyectos Maven de apoyo para NetBeans, `componentes-propios/` (`CampoNumerico` y `Semaforo`) y `simulador-torrent/` (torrent mínimo y completo). No confundir con `examenes/`, que son los de otros años |
 | [`examenes/`](examenes/) | Exámenes de toda la asignatura de las convocatorias ordinarias de enero de 2016, 2017 y 2018, con sus soluciones |
 
 ## Recursos

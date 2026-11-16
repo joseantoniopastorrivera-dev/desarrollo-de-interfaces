@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  pom.xml: describe el proyecto para Maven.
+  En NetBeans: File > Open Project y eliges la carpeta componentes-propios.
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Identidad del proyecto: grupo, nombre y versión -->
+    <groupId>es.isidraguzman.di</groupId>
+    <artifactId>componentes-propios</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <properties>
+        <!-- Ficheros en UTF-8 para que las tildes no se rompan -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- Compila para Java 17 -->
+        <maven.compiler.release>17</maven.compiler.release>
+        <!-- Clase con el main(): la que arranca NetBeans al pulsar Run (F6) -->
+        <exec.mainClass>es.isidraguzman.di.componentes.DemoComponentes</exec.mainClass>
+    </properties>
+</project>
